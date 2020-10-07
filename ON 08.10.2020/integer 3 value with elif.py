@@ -9,3 +9,4 @@ elif b > a < c:
     print_min(a)
 else:
     print_min(c)
+#All
